@@ -1,3 +1,3 @@
 # Movie-Rocommendation-System
 
-Content based Collaborative Filtering based Movie recommendation system.
+Content based & Collaborative Filtering based Movie recommendation system.
