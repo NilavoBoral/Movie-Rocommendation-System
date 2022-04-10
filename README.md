@@ -1,6 +1,6 @@
 # Movie-Rocommendation-System
 
-##Content based & Collaborative Filtering based Movie recommendation system.
+## Content based & Collaborative Filtering based Movie recommendation system.
 
 Details about Recommendation System : Introduction to Recommender Systems.pdf
 
